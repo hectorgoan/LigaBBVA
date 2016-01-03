@@ -444,6 +444,7 @@
 				94ECBF571C39A73500C2C1E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		94ECBF581C39A73500C2C1E1 /* Build configuration list for PBXNativeTarget "LigaBBVATests" */ = {
 			isa = XCConfigurationList;
@@ -452,6 +453,7 @@
 				94ECBF5A1C39A73500C2C1E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
