@@ -1,0 +1,22 @@
+{
+  "_links": {
+    "self": {
+      "href": "http://api.football-data.org/alpha/soccerseasons/399"
+    },
+    "teams": {
+      "href": "http://api.football-data.org/alpha/soccerseasons/399/teams"
+    },
+    "fixtures": {
+      "href": "http://api.football-data.org/alpha/soccerseasons/399/fixtures"
+    },
+    "leagueTable": {
+      "href": "http://api.football-data.org/alpha/soccerseasons/399/leagueTable"
+    }
+  },
+  "caption": "Primera Division 2015/16",
+  "league": "PD",
+  "year": "2015",
+  "numberOfTeams": 20,
+  "numberOfGames": 380,
+  "lastUpdated": "2016-01-03T05:55:17Z"
+}
