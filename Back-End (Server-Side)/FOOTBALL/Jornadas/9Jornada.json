@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2015-10-23T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Rayo Vallecano de Madrid",
+    "awayTeamName": "RCD Espanyol",
+    "result": {
+      "goalsHomeTeam": "3",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-10-24T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "RC Celta de Vigo",
+    "awayTeamName": "Real Madrid CF",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "3"
+    }
+  },
+  {
+    "date": "2015-10-24T16:15:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Granada CF",
+    "awayTeamName": "Real Betis",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-10-24T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Sevilla FC",
+    "awayTeamName": "Getafe CF",
+    "result": {
+      "goalsHomeTeam": "5",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-10-24T20:05:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Málaga CF",
+    "awayTeamName": "RC Deportivo La Coruna",
+    "result": {
+      "goalsHomeTeam": "2",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-10-25T11:00:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Levante UD",
+    "awayTeamName": "Real Sociedad de Fútbol",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "4"
+    }
+  },
+  {
+    "date": "2015-10-25T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "UD Las Palmas",
+    "awayTeamName": "Villarreal CF",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-10-25T17:15:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "FC Barcelona",
+    "awayTeamName": "SD Eibar",
+    "result": {
+      "goalsHomeTeam": "3",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-10-25T19:30:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Club Atlético de Madrid",
+    "awayTeamName": "Valencia CF",
+    "result": {
+      "goalsHomeTeam": "2",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-10-26T19:30:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Athletic Club",
+    "awayTeamName": "Sporting Gijón",
+    "result": {
+      "goalsHomeTeam": "3",
+      "goalsAwayTeam": "0"
+    }
+  }
+]

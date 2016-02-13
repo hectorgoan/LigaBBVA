@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2015-11-21T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Real Sociedad de Fútbol",
+    "awayTeamName": "Sevilla FC",
+    "result": {
+      "goalsHomeTeam": "2",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-11-21T17:15:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Real Madrid CF",
+    "awayTeamName": "FC Barcelona",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "4"
+    }
+  },
+  {
+    "date": "2015-11-21T19:30:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "RCD Espanyol",
+    "awayTeamName": "Málaga CF",
+    "result": {
+      "goalsHomeTeam": "2",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-11-21T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Valencia CF",
+    "awayTeamName": "UD Las Palmas",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-11-21T21:05:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "RC Deportivo La Coruna",
+    "awayTeamName": "RC Celta de Vigo",
+    "result": {
+      "goalsHomeTeam": "2",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-11-22T11:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Sporting Gijón",
+    "awayTeamName": "Levante UD",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "3"
+    }
+  },
+  {
+    "date": "2015-11-22T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Villarreal CF",
+    "awayTeamName": "SD Eibar",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-11-22T17:15:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Granada CF",
+    "awayTeamName": "Athletic Club",
+    "result": {
+      "goalsHomeTeam": "2",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-11-22T19:30:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Real Betis",
+    "awayTeamName": "Club Atlético de Madrid",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-11-23T19:30:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Getafe CF",
+    "awayTeamName": "Rayo Vallecano de Madrid",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "1"
+    }
+  }
+]

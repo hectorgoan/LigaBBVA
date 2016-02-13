@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Athletic Club",
+    "shortName": "Bilbao",
+    "squadMarketValue": "125,600,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/11_AthleticClubBilbao/logo.svg"
+  },
+  {
+    "name": "Club Atlético de Madrid",
+    "shortName": "Atlético",
+    "squadMarketValue": "340,500,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/5_AtMadrid/logo.svg"
+  },
+  {
+    "name": "FC Barcelona",
+    "shortName": "Barcelona",
+    "squadMarketValue": "657,500,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/12_FCBarcelona/logo.svg"
+  },
+  {
+    "name": "Getafe CF",
+    "shortName": "Getafe",
+    "squadMarketValue": "52,700,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/4_GetafeCF/logo.svg"
+  },
+  {
+    "name": "Granada CF",
+    "shortName": "Granada",
+    "squadMarketValue": "59,000,000 €",
+    "logo": "http://upload.wikimedia.org/wikipedia/de/d/d3/Granada_CF.svg"
+  },
+  {
+    "name": "Levante UD",
+    "shortName": "Levante",
+    "squadMarketValue": "38,750,000 €",
+    "logo": "http://upload.wikimedia.org/wikipedia/de/1/1f/Levante_ud.svg"
+  },
+  {
+    "name": "Málaga CF",
+    "shortName": "Málaga",
+    "squadMarketValue": "60,800,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/9_MalagaCF/logo.svg"
+  },
+  {
+    "name": "Rayo Vallecano de Madrid",
+    "shortName": "Vallecano",
+    "squadMarketValue": "42,700,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/7_RayoVallecano/logo.svg"
+  },
+  {
+    "name": "RC Celta de Vigo",
+    "shortName": "Celta Vigo",
+    "squadMarketValue": "63,900,000 €",
+    "logo": "http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg"
+  },
+  {
+    "name": "RC Deportivo La Coruna",
+    "shortName": "La Coruna",
+    "squadMarketValue": "52,200,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/1_RCDLaCorunya/logo.svg"
+  },
+  {
+    "name": "RCD Espanyol",
+    "shortName": "Espanyol",
+    "squadMarketValue": "58,300,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/3_RCDEspanyol/logo.svg"
+  },
+  {
+    "name": "Real Betis",
+    "shortName": "Betis",
+    "squadMarketValue": "52,200,000 €",
+    "logo": "http://upload.wikimedia.org/wikipedia/de/4/43/Real_Betis.svg"
+  },
+  {
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "squadMarketValue": "715,500,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/14_RealMadridCF/logo.svg"
+  },
+  {
+    "name": "Real Sociedad de Fútbol",
+    "shortName": "Real Sociedad",
+    "squadMarketValue": "123,450,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/2_RealSociedad/logo.svg"
+  },
+  {
+    "name": "SD Eibar",
+    "shortName": "Eibar",
+    "squadMarketValue": "35,500,000 €",
+    "logo": "http://upload.wikimedia.org/wikipedia/en/7/75/SD_Eibar_logo.svg"
+  },
+  {
+    "name": "Sevilla FC",
+    "shortName": "Sevilla",
+    "squadMarketValue": "172,000,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/10_SevillaCF/logo.png"
+  },
+  {
+    "name": "Sporting Gijón",
+    "shortName": "Gijón",
+    "squadMarketValue": "33,100,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/13_SportingGijon/logo.svg"
+  },
+  {
+    "name": "UD Las Palmas",
+    "shortName": "Las Palmas",
+    "squadMarketValue": "29,800,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/6_UDLasPalmas/logo.svg"
+  },
+  {
+    "name": "Valencia CF",
+    "shortName": "Valencia",
+    "squadMarketValue": "262,500,000 €",
+    "logo": "http://hectorgoan.me/FOOTBALL/Equipos/8_ValenciaCF/logo.svg"
+  },
+  {
+    "name": "Villarreal CF",
+    "shortName": "Villareal",
+    "squadMarketValue": "119,800,000 €",
+    "logo": "http://upload.wikimedia.org/wikipedia/de/7/70/Villarreal_CF_logo.svg"
+  }
+]

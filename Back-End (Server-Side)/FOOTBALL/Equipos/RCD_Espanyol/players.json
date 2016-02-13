@@ -1,0 +1,252 @@
+[
+  {
+    "id": 450,
+    "name": "Francesco Bardi",
+    "position": "Keeper",
+    "jerseyNumber": "1",
+    "dateOfBirth": "1992-01-18",
+    "nationality": "Italy",
+    "contractUntil": "2016-06-30",
+    "marketValue": "7,000,000 €"
+  },
+  {
+    "id": 599,
+    "name": "Mickael Ciani",
+    "position": "Centre Back",
+    "jerseyNumber": "15",
+    "dateOfBirth": "1984-04-06",
+    "nationality": "France",
+    "contractUntil": "2017-06-30",
+    "marketValue": "1,500,000 €"
+  },
+  {
+    "id": 3139,
+    "name": "Pau López",
+    "position": "Keeper",
+    "jerseyNumber": "13",
+    "dateOfBirth": "1994-12-13",
+    "nationality": "Spain",
+    "contractUntil": "2018-06-30",
+    "marketValue": "500,000 €"
+  },
+  {
+    "id": 3141,
+    "name": "Álvaro González",
+    "position": "Centre Back",
+    "jerseyNumber": "22",
+    "dateOfBirth": "1990-01-08",
+    "nationality": "Spain",
+    "contractUntil": "2019-06-30",
+    "marketValue": "4,000,000 €"
+  },
+  {
+    "id": 3145,
+    "name": "Juan Rafael Fuentes",
+    "position": "Left-Back",
+    "jerseyNumber": "18",
+    "dateOfBirth": "1990-01-05",
+    "nationality": "Spain",
+    "contractUntil": "2017-06-30",
+    "marketValue": "2,500,000 €"
+  },
+  {
+    "id": 3146,
+    "name": "Víctor Álvarez",
+    "position": "Left-Back",
+    "jerseyNumber": "5",
+    "dateOfBirth": "1993-03-14",
+    "nationality": "Spain",
+    "contractUntil": "2017-06-30",
+    "marketValue": "1,000,000 €"
+  },
+  {
+    "id": 3148,
+    "name": "Javi López",
+    "position": "Right-Back",
+    "jerseyNumber": "16",
+    "dateOfBirth": "1986-01-21",
+    "nationality": "Spain",
+    "contractUntil": "2018-06-30",
+    "marketValue": "3,000,000 €"
+  },
+  {
+    "id": 3149,
+    "name": "Anaitz Arbilla",
+    "position": "Right-Back",
+    "jerseyNumber": "23",
+    "dateOfBirth": "1987-05-15",
+    "nationality": "Spain",
+    "contractUntil": "2018-06-30",
+    "marketValue": "3,000,000 €"
+  },
+  {
+    "id": 3151,
+    "name": "José Alberto Cañas",
+    "position": "Defensive Midfield",
+    "jerseyNumber": "14",
+    "dateOfBirth": "1987-05-27",
+    "nationality": "Spain",
+    "contractUntil": "2017-06-30",
+    "marketValue": "4,500,000 €"
+  },
+  {
+    "id": 3152,
+    "name": "Víctor Sánchez",
+    "position": "Central Midfield",
+    "jerseyNumber": "4",
+    "dateOfBirth": "1987-09-08",
+    "nationality": "Spain",
+    "contractUntil": "2018-06-30",
+    "marketValue": "4,000,000 €"
+  },
+  {
+    "id": 3154,
+    "name": "Abraham González",
+    "position": "Central Midfield",
+    "jerseyNumber": "10",
+    "dateOfBirth": "1985-07-16",
+    "nationality": "Spain",
+    "contractUntil": "2016-06-30",
+    "marketValue": "1,200,000 €"
+  },
+  {
+    "id": 3156,
+    "name": "Paco Montañés",
+    "position": "Left Midfield",
+    "jerseyNumber": "11",
+    "dateOfBirth": "1986-10-08",
+    "nationality": "Spain",
+    "contractUntil": "2018-06-30",
+    "marketValue": "1,500,000 €"
+  },
+  {
+    "id": 3157,
+    "name": "Salva Sevilla",
+    "position": "Attacking Midfield",
+    "jerseyNumber": "8",
+    "dateOfBirth": "1984-03-18",
+    "nationality": "Spain",
+    "contractUntil": "2017-06-30",
+    "marketValue": "1,800,000 €"
+  },
+  {
+    "id": 3160,
+    "name": "Felipe Caicedo",
+    "position": "Centre Forward",
+    "jerseyNumber": "20",
+    "dateOfBirth": "1988-09-05",
+    "nationality": "Ecuador",
+    "contractUntil": "2016-06-30",
+    "marketValue": "5,000,000 €"
+  },
+  {
+    "id": 3225,
+    "name": "Papakouli Diop",
+    "position": "Defensive Midfield",
+    "jerseyNumber": "23",
+    "dateOfBirth": "1986-03-19",
+    "nationality": "Senegal",
+    "contractUntil": "2018-06-30",
+    "marketValue": "2,500,000 €"
+  },
+  {
+    "id": 3259,
+    "name": "Hernán Pérez",
+    "position": "Right Wing",
+    "jerseyNumber": "17",
+    "dateOfBirth": "1989-02-25",
+    "nationality": "Paraguay",
+    "contractUntil": "2019-06-30",
+    "marketValue": "1,500,000 €"
+  },
+  {
+    "id": 3263,
+    "name": "Gerard Moreno",
+    "position": "Centre Forward",
+    "jerseyNumber": "7",
+    "dateOfBirth": "1992-04-07",
+    "nationality": "Spain",
+    "contractUntil": "2020-06-30",
+    "marketValue": "4,000,000 €"
+  },
+  {
+    "id": 3437,
+    "name": "Enzo Roco",
+    "position": "Centre Back",
+    "jerseyNumber": "6",
+    "dateOfBirth": "1992-08-16",
+    "nationality": "Chile",
+    "contractUntil": "2016-06-30",
+    "marketValue": "3,000,000 €"
+  },
+  {
+    "id": 5697,
+    "name": "Antonio Raíllo",
+    "position": "Centre Back",
+    "jerseyNumber": "24",
+    "dateOfBirth": "1991-10-08",
+    "nationality": "Spain",
+    "contractUntil": "2018-06-30",
+    "marketValue": "200,000 €"
+  },
+  {
+    "id": 5698,
+    "name": "Rubén Duarte",
+    "position": "Left-Back",
+    "jerseyNumber": "3",
+    "dateOfBirth": "1995-10-18",
+    "nationality": "Spain",
+    "contractUntil": "2016-06-30",
+    "marketValue": "2,000,000 €"
+  },
+  {
+    "id": 5699,
+    "name": "Roberto Correa",
+    "position": "Right-Back",
+    "jerseyNumber": "2",
+    "dateOfBirth": "1992-09-20",
+    "nationality": "Spain",
+    "contractUntil": "2018-06-30",
+    "marketValue": "200,000 €"
+  },
+  {
+    "id": 5700,
+    "name": "Joan Jordan",
+    "position": "Central Midfield",
+    "jerseyNumber": "19",
+    "dateOfBirth": "1994-07-06",
+    "nationality": "Spain",
+    "contractUntil": "2019-06-30",
+    "marketValue": "300,000 €"
+  },
+  {
+    "id": 5701,
+    "name": "Marco Asensio",
+    "position": "Attacking Midfield",
+    "jerseyNumber": "25",
+    "dateOfBirth": "1996-01-21",
+    "nationality": "Spain",
+    "contractUntil": "2016-06-30",
+    "marketValue": "3,500,000 €"
+  },
+  {
+    "id": 5702,
+    "name": "Burgui",
+    "position": "Left Wing",
+    "jerseyNumber": "9",
+    "dateOfBirth": "1993-10-29",
+    "nationality": "Spain",
+    "contractUntil": "2016-06-30",
+    "marketValue": "600,000 €"
+  },
+  {
+    "id": 5703,
+    "name": "Mamadou Sylla",
+    "position": "Centre Forward",
+    "jerseyNumber": "28",
+    "dateOfBirth": "1994-03-20",
+    "nationality": "Spain",
+    "contractUntil": "2016-06-30",
+    "marketValue": null
+  }
+]

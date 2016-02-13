@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2016-02-07T16:00:00Z",
+    "status": "TIMED",
+    "matchday": 23,
+    "homeTeamName": "RCD Espanyol",
+    "awayTeamName": "Real Sociedad de Fútbol",
+    "result": {
+      "goalsHomeTeam": "-1",
+      "goalsAwayTeam": "-1"
+    }
+  },
+  {
+    "date": "2016-02-07T16:00:00Z",
+    "status": "TIMED",
+    "matchday": 23,
+    "homeTeamName": "RC Celta de Vigo",
+    "awayTeamName": "Sevilla FC",
+    "result": {
+      "goalsHomeTeam": "-1",
+      "goalsAwayTeam": "-1"
+    }
+  },
+  {
+    "date": "2016-02-07T16:00:00Z",
+    "status": "TIMED",
+    "matchday": 23,
+    "homeTeamName": "Club Atlético de Madrid",
+    "awayTeamName": "SD Eibar",
+    "result": {
+      "goalsHomeTeam": "-1",
+      "goalsAwayTeam": "-1"
+    }
+  },
+  {
+    "date": "2016-02-07T16:00:00Z",
+    "status": "TIMED",
+    "matchday": 23,
+    "homeTeamName": "Athletic Club",
+    "awayTeamName": "Villarreal CF",
+    "result": {
+      "goalsHomeTeam": "-1",
+      "goalsAwayTeam": "-1"
+    }
+  },
+  {
+    "date": "2016-02-07T16:00:00Z",
+    "status": "TIMED",
+    "matchday": 23,
+    "homeTeamName": "Granada CF",
+    "awayTeamName": "Real Madrid CF",
+    "result": {
+      "goalsHomeTeam": "-1",
+      "goalsAwayTeam": "-1"
+    }
+  },
+  {
+    "date": "2016-02-07T16:00:00Z",
+    "status": "TIMED",
+    "matchday": 23,
+    "homeTeamName": "Levante UD",
+    "awayTeamName": "FC Barcelona",
+    "result": {
+      "goalsHomeTeam": "-1",
+      "goalsAwayTeam": "-1"
+    }
+  },
+  {
+    "date": "2016-02-07T16:00:00Z",
+    "status": "TIMED",
+    "matchday": 23,
+    "homeTeamName": "Sporting Gijón",
+    "awayTeamName": "RC Deportivo La Coruna",
+    "result": {
+      "goalsHomeTeam": "-1",
+      "goalsAwayTeam": "-1"
+    }
+  },
+  {
+    "date": "2016-02-07T16:00:00Z",
+    "status": "TIMED",
+    "matchday": 23,
+    "homeTeamName": "Real Betis",
+    "awayTeamName": "Valencia CF",
+    "result": {
+      "goalsHomeTeam": "-1",
+      "goalsAwayTeam": "-1"
+    }
+  },
+  {
+    "date": "2016-02-07T16:00:00Z",
+    "status": "TIMED",
+    "matchday": 23,
+    "homeTeamName": "Rayo Vallecano de Madrid",
+    "awayTeamName": "UD Las Palmas",
+    "result": {
+      "goalsHomeTeam": "-1",
+      "goalsAwayTeam": "-1"
+    }
+  },
+  {
+    "date": "2016-02-07T16:00:00Z",
+    "status": "TIMED",
+    "matchday": 23,
+    "homeTeamName": "Málaga CF",
+    "awayTeamName": "Getafe CF",
+    "result": {
+      "goalsHomeTeam": "-1",
+      "goalsAwayTeam": "-1"
+    }
+  }
+]

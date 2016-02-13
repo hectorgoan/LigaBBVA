@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1014,
+    "name": "Mateo Kovacic",
+    "position": "Central Midfield",
+    "jerseyNumber": "16",
+    "dateOfBirth": "1994-05-06",
+    "nationality": "Croatia",
+    "contractUntil": "2021-06-30",
+    "marketValue": "22,000,000 €"
+  },
+  {
+    "id": 2419,
+    "name": "Casemiro",
+    "position": "Defensive Midfield",
+    "jerseyNumber": "14",
+    "dateOfBirth": "1992-02-23",
+    "nationality": "Brazil",
+    "contractUntil": "2021-06-30",
+    "marketValue": "10,000,000 €"
+  },
+  {
+    "id": 3137,
+    "name": "Kiko Casilla",
+    "position": "Keeper",
+    "jerseyNumber": "13",
+    "dateOfBirth": "1986-10-02",
+    "nationality": "Spain",
+    "contractUntil": "2020-06-30",
+    "marketValue": "7,500,000 €"
+  },
+  {
+    "id": 3155,
+    "name": "Lucas Vázquez",
+    "position": "Right Wing",
+    "jerseyNumber": "18",
+    "dateOfBirth": "1991-07-01",
+    "nationality": "Spain",
+    "contractUntil": "2020-06-30",
+    "marketValue": "5,000,000 €"
+  },
+  {
+    "id": 3257,
+    "name": "Denis Cheryshev",
+    "position": "Left Wing",
+    "jerseyNumber": "21",
+    "dateOfBirth": "1990-12-26",
+    "nationality": "Russia",
+    "contractUntil": "2017-06-30",
+    "marketValue": "10,000,000 €"
+  },
+  {
+    "id": 3505,
+    "name": "Keylor Navas",
+    "position": "Keeper",
+    "jerseyNumber": "1",
+    "dateOfBirth": "1986-12-15",
+    "nationality": "Costa Rica",
+    "contractUntil": "2020-06-30",
+    "marketValue": "8,000,000 €"
+  },
+  {
+    "id": 3508,
+    "name": "Sergio Ramos",
+    "position": "Centre Back",
+    "jerseyNumber": "4",
+    "dateOfBirth": "1986-03-30",
+    "nationality": "Spain",
+    "contractUntil": "2020-06-30",
+    "marketValue": "40,000,000 €"
+  },
+  {
+    "id": 3509,
+    "name": "Raphaël Varane",
+    "position": "Centre Back",
+    "jerseyNumber": "2",
+    "dateOfBirth": "1993-04-25",
+    "nationality": "France",
+    "contractUntil": "2020-06-30",
+    "marketValue": "25,000,000 €"
+  },
+  {
+    "id": 3510,
+    "name": "Pepe",
+    "position": "Centre Back",
+    "jerseyNumber": "3",
+    "dateOfBirth": "1983-02-26",
+    "nationality": "Portugal",
+    "contractUntil": "2017-06-30",
+    "marketValue": "15,000,000 €"
+  },
+  {
+    "id": 3511,
+    "name": "Nacho Fernández",
+    "position": "Centre Back",
+    "jerseyNumber": "6",
+    "dateOfBirth": "1990-01-18",
+    "nationality": "Spain",
+    "contractUntil": "2020-06-30",
+    "marketValue": "5,000,000 €"
+  },
+  {
+    "id": 3513,
+    "name": "Daniel Carvajal",
+    "position": "Right-Back",
+    "jerseyNumber": "15",
+    "dateOfBirth": "1992-01-11",
+    "nationality": "Spain",
+    "contractUntil": "2020-06-30",
+    "marketValue": "25,000,000 €"
+  },
+  {
+    "id": 3514,
+    "name": "Álvaro Arbeloa",
+    "position": "Right-Back",
+    "jerseyNumber": "17",
+    "dateOfBirth": "1983-01-17",
+    "nationality": "Spain",
+    "contractUntil": "2016-06-30",
+    "marketValue": "4,000,000 €"
+  },
+  {
+    "id": 3516,
+    "name": "Luka Modric",
+    "position": "Central Midfield",
+    "jerseyNumber": "19",
+    "dateOfBirth": "1985-09-09",
+    "nationality": "Croatia",
+    "contractUntil": "2018-06-30",
+    "marketValue": "50,000,000 €"
+  },
+  {
+    "id": 3517,
+    "name": "Toni Kroos",
+    "position": "Central Midfield",
+    "jerseyNumber": "8",
+    "dateOfBirth": "1990-01-04",
+    "nationality": "Germany",
+    "contractUntil": "2020-06-30",
+    "marketValue": "50,000,000 €"
+  },
+  {
+    "id": 3519,
+    "name": "James Rodríguez",
+    "position": "Attacking Midfield",
+    "jerseyNumber": "10",
+    "dateOfBirth": "1991-07-12",
+    "nationality": "Colombia",
+    "contractUntil": "2020-06-30",
+    "marketValue": "80,000,000 €"
+  },
+  {
+    "id": 3520,
+    "name": "Isco",
+    "position": "Attacking Midfield",
+    "jerseyNumber": "22",
+    "dateOfBirth": "1992-04-21",
+    "nationality": "Spain",
+    "contractUntil": "2018-06-30",
+    "marketValue": "45,000,000 €"
+  },
+  {
+    "id": 3521,
+    "name": "Cristiano Ronaldo",
+    "position": "Left Wing",
+    "jerseyNumber": "7",
+    "dateOfBirth": "1985-02-05",
+    "nationality": "Portugal",
+    "contractUntil": "2018-06-30",
+    "marketValue": "120,000,000 €"
+  },
+  {
+    "id": 3522,
+    "name": "Jesé",
+    "position": "Left Wing",
+    "jerseyNumber": "20",
+    "dateOfBirth": "1993-02-26",
+    "nationality": "Spain",
+    "contractUntil": "2017-06-30",
+    "marketValue": "14,000,000 €"
+  },
+  {
+    "id": 3523,
+    "name": "Gareth Bale",
+    "position": "Right Wing",
+    "jerseyNumber": "11",
+    "dateOfBirth": "1989-07-16",
+    "nationality": "Wales",
+    "contractUntil": "2019-06-30",
+    "marketValue": "80,000,000 €"
+  },
+  {
+    "id": 3524,
+    "name": "Karim Benzema",
+    "position": "Centre Forward",
+    "jerseyNumber": "9",
+    "dateOfBirth": "1987-12-19",
+    "nationality": "France",
+    "contractUntil": "2019-06-30",
+    "marketValue": "50,000,000 €"
+  }
+]

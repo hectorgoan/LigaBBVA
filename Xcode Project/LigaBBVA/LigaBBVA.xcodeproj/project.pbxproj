@@ -1,0 +1,645 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		945F94421C42EFDB009234B5 /* TabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 945F94411C42EFDB009234B5 /* TabBar.m */; };
+		94CF72411C3A854F00B33CE9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF72401C3A854F00B33CE9 /* main.m */; };
+		94CF72441C3A854F00B33CE9 /* HGAAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF72431C3A854F00B33CE9 /* HGAAppDelegate.m */; };
+		94CF724A1C3A854F00B33CE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72481C3A854F00B33CE9 /* Main.storyboard */; };
+		94CF724C1C3A854F00B33CE9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94CF724B1C3A854F00B33CE9 /* Images.xcassets */; };
+		94CF724F1C3A854F00B33CE9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 94CF724D1C3A854F00B33CE9 /* LaunchScreen.xib */; };
+		94CF725B1C3A854F00B33CE9 /* LigaBBVATests.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF725A1C3A854F00B33CE9 /* LigaBBVATests.m */; };
+		94CF72731C3A8FC500B33CE9 /* matchesSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF726F1C3A8FC500B33CE9 /* matchesSmall.png */; };
+		94CF72741C3A8FC500B33CE9 /* matchesSmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72701C3A8FC500B33CE9 /* matchesSmall@2x.png */; };
+		94CF72751C3A8FC500B33CE9 /* teamsSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72711C3A8FC500B33CE9 /* teamsSmall.png */; };
+		94CF72761C3A8FC500B33CE9 /* teamsSmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72721C3A8FC500B33CE9 /* teamsSmall@2x.png */; };
+		94CF727A1C3A94DC00B33CE9 /* HGAJornadasTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF72791C3A94DC00B33CE9 /* HGAJornadasTableViewController.m */; };
+		94CF727E1C3A94FD00B33CE9 /* HGATeamsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF727D1C3A94FD00B33CE9 /* HGATeamsTableViewController.m */; };
+		94CF72831C3A9DF200B33CE9 /* HGAJornadaTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF72821C3A9DF200B33CE9 /* HGAJornadaTableViewController.m */; };
+		94CF728B1C3AE71500B33CE9 /* HGAPartidoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF728A1C3AE71500B33CE9 /* HGAPartidoViewController.m */; };
+		94CF72A11C3AF17800B33CE9 /* Athletic Club.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF728D1C3AF17800B33CE9 /* Athletic Club.png */; };
+		94CF72A21C3AF17800B33CE9 /* Club Atlético de Madrid.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF728E1C3AF17800B33CE9 /* Club Atlético de Madrid.png */; };
+		94CF72A31C3AF17800B33CE9 /* FC Barcelona.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF728F1C3AF17800B33CE9 /* FC Barcelona.png */; };
+		94CF72A41C3AF17800B33CE9 /* Getafe CF.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72901C3AF17800B33CE9 /* Getafe CF.png */; };
+		94CF72A51C3AF17800B33CE9 /* Granada CF.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72911C3AF17800B33CE9 /* Granada CF.png */; };
+		94CF72A61C3AF17800B33CE9 /* Levante UD.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72921C3AF17800B33CE9 /* Levante UD.png */; };
+		94CF72A71C3AF17800B33CE9 /* Málaga CF.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72931C3AF17800B33CE9 /* Málaga CF.png */; };
+		94CF72A91C3AF17800B33CE9 /* RC Celta de Vigo.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72951C3AF17800B33CE9 /* RC Celta de Vigo.png */; };
+		94CF72AA1C3AF17800B33CE9 /* RC Deportivo La Coruna.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72961C3AF17800B33CE9 /* RC Deportivo La Coruna.png */; };
+		94CF72AB1C3AF17800B33CE9 /* RCD Espanyol.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72971C3AF17800B33CE9 /* RCD Espanyol.png */; };
+		94CF72AC1C3AF17800B33CE9 /* Real Betis.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72981C3AF17800B33CE9 /* Real Betis.png */; };
+		94CF72AD1C3AF17800B33CE9 /* Real Madrid CF.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72991C3AF17800B33CE9 /* Real Madrid CF.png */; };
+		94CF72AE1C3AF17800B33CE9 /* Real Sociedad de Fútbol.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF729A1C3AF17800B33CE9 /* Real Sociedad de Fútbol.png */; };
+		94CF72AF1C3AF17800B33CE9 /* SD Eibar.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF729B1C3AF17800B33CE9 /* SD Eibar.png */; };
+		94CF72B01C3AF17800B33CE9 /* Sevilla FC.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF729C1C3AF17800B33CE9 /* Sevilla FC.png */; };
+		94CF72B11C3AF17800B33CE9 /* Sporting Gijón.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF729D1C3AF17800B33CE9 /* Sporting Gijón.png */; };
+		94CF72B21C3AF17800B33CE9 /* UD Las Palmas.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF729E1C3AF17800B33CE9 /* UD Las Palmas.png */; };
+		94CF72B31C3AF17800B33CE9 /* Valencia CF.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF729F1C3AF17800B33CE9 /* Valencia CF.png */; };
+		94CF72B41C3AF17800B33CE9 /* Villarreal CF.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72A01C3AF17800B33CE9 /* Villarreal CF.png */; };
+		94CF72B61C3B0BC900B33CE9 /* Rayo Vallecano de Madrid.png in Resources */ = {isa = PBXBuildFile; fileRef = 94CF72B51C3B0BC900B33CE9 /* Rayo Vallecano de Madrid.png */; };
+		94CF72B91C3B0D4F00B33CE9 /* HGAEquipoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF72B81C3B0D4F00B33CE9 /* HGAEquipoViewController.m */; };
+		94CF72BD1C3B3C5100B33CE9 /* HGAJugadoresTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF72BC1C3B3C5100B33CE9 /* HGAJugadoresTableViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		94CF72551C3A854F00B33CE9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 94CF72331C3A854F00B33CE9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 94CF723A1C3A854F00B33CE9;
+			remoteInfo = LigaBBVA;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		945F94401C42EFDB009234B5 /* TabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBar.h; sourceTree = "<group>"; };
+		945F94411C42EFDB009234B5 /* TabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBar.m; sourceTree = "<group>"; };
+		94CF723B1C3A854F00B33CE9 /* LigaBBVA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LigaBBVA.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		94CF723F1C3A854F00B33CE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94CF72401C3A854F00B33CE9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		94CF72421C3A854F00B33CE9 /* HGAAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HGAAppDelegate.h; sourceTree = "<group>"; };
+		94CF72431C3A854F00B33CE9 /* HGAAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HGAAppDelegate.m; sourceTree = "<group>"; };
+		94CF72491C3A854F00B33CE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		94CF724B1C3A854F00B33CE9 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		94CF724E1C3A854F00B33CE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		94CF72541C3A854F00B33CE9 /* LigaBBVATests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LigaBBVATests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		94CF72591C3A854F00B33CE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94CF725A1C3A854F00B33CE9 /* LigaBBVATests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LigaBBVATests.m; sourceTree = "<group>"; };
+		94CF726F1C3A8FC500B33CE9 /* matchesSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = matchesSmall.png; sourceTree = "<group>"; };
+		94CF72701C3A8FC500B33CE9 /* matchesSmall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "matchesSmall@2x.png"; sourceTree = "<group>"; };
+		94CF72711C3A8FC500B33CE9 /* teamsSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = teamsSmall.png; sourceTree = "<group>"; };
+		94CF72721C3A8FC500B33CE9 /* teamsSmall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "teamsSmall@2x.png"; sourceTree = "<group>"; };
+		94CF72781C3A94DC00B33CE9 /* HGAJornadasTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HGAJornadasTableViewController.h; sourceTree = "<group>"; };
+		94CF72791C3A94DC00B33CE9 /* HGAJornadasTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HGAJornadasTableViewController.m; sourceTree = "<group>"; };
+		94CF727C1C3A94FD00B33CE9 /* HGATeamsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HGATeamsTableViewController.h; sourceTree = "<group>"; };
+		94CF727D1C3A94FD00B33CE9 /* HGATeamsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HGATeamsTableViewController.m; sourceTree = "<group>"; };
+		94CF72811C3A9DF200B33CE9 /* HGAJornadaTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HGAJornadaTableViewController.h; sourceTree = "<group>"; };
+		94CF72821C3A9DF200B33CE9 /* HGAJornadaTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HGAJornadaTableViewController.m; sourceTree = "<group>"; };
+		94CF72891C3AE71500B33CE9 /* HGAPartidoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HGAPartidoViewController.h; sourceTree = "<group>"; };
+		94CF728A1C3AE71500B33CE9 /* HGAPartidoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HGAPartidoViewController.m; sourceTree = "<group>"; };
+		94CF728D1C3AF17800B33CE9 /* Athletic Club.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Athletic Club.png"; sourceTree = "<group>"; };
+		94CF728E1C3AF17800B33CE9 /* Club Atlético de Madrid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Club Atlético de Madrid.png"; sourceTree = "<group>"; };
+		94CF728F1C3AF17800B33CE9 /* FC Barcelona.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "FC Barcelona.png"; sourceTree = "<group>"; };
+		94CF72901C3AF17800B33CE9 /* Getafe CF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Getafe CF.png"; sourceTree = "<group>"; };
+		94CF72911C3AF17800B33CE9 /* Granada CF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Granada CF.png"; sourceTree = "<group>"; };
+		94CF72921C3AF17800B33CE9 /* Levante UD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Levante UD.png"; sourceTree = "<group>"; };
+		94CF72931C3AF17800B33CE9 /* Málaga CF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Málaga CF.png"; sourceTree = "<group>"; };
+		94CF72951C3AF17800B33CE9 /* RC Celta de Vigo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RC Celta de Vigo.png"; sourceTree = "<group>"; };
+		94CF72961C3AF17800B33CE9 /* RC Deportivo La Coruna.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RC Deportivo La Coruna.png"; sourceTree = "<group>"; };
+		94CF72971C3AF17800B33CE9 /* RCD Espanyol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RCD Espanyol.png"; sourceTree = "<group>"; };
+		94CF72981C3AF17800B33CE9 /* Real Betis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Real Betis.png"; sourceTree = "<group>"; };
+		94CF72991C3AF17800B33CE9 /* Real Madrid CF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Real Madrid CF.png"; sourceTree = "<group>"; };
+		94CF729A1C3AF17800B33CE9 /* Real Sociedad de Fútbol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Real Sociedad de Fútbol.png"; sourceTree = "<group>"; };
+		94CF729B1C3AF17800B33CE9 /* SD Eibar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SD Eibar.png"; sourceTree = "<group>"; };
+		94CF729C1C3AF17800B33CE9 /* Sevilla FC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sevilla FC.png"; sourceTree = "<group>"; };
+		94CF729D1C3AF17800B33CE9 /* Sporting Gijón.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sporting Gijón.png"; sourceTree = "<group>"; };
+		94CF729E1C3AF17800B33CE9 /* UD Las Palmas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UD Las Palmas.png"; sourceTree = "<group>"; };
+		94CF729F1C3AF17800B33CE9 /* Valencia CF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Valencia CF.png"; sourceTree = "<group>"; };
+		94CF72A01C3AF17800B33CE9 /* Villarreal CF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Villarreal CF.png"; sourceTree = "<group>"; };
+		94CF72B51C3B0BC900B33CE9 /* Rayo Vallecano de Madrid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rayo Vallecano de Madrid.png"; sourceTree = "<group>"; };
+		94CF72B71C3B0D4F00B33CE9 /* HGAEquipoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HGAEquipoViewController.h; sourceTree = "<group>"; };
+		94CF72B81C3B0D4F00B33CE9 /* HGAEquipoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HGAEquipoViewController.m; sourceTree = "<group>"; };
+		94CF72BB1C3B3C5100B33CE9 /* HGAJugadoresTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HGAJugadoresTableViewController.h; sourceTree = "<group>"; };
+		94CF72BC1C3B3C5100B33CE9 /* HGAJugadoresTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HGAJugadoresTableViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		94CF72381C3A854F00B33CE9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94CF72511C3A854F00B33CE9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		945F94431C42F9DD009234B5 /* Tab Bar Controller */ = {
+			isa = PBXGroup;
+			children = (
+				945F94401C42EFDB009234B5 /* TabBar.h */,
+				945F94411C42EFDB009234B5 /* TabBar.m */,
+			);
+			name = "Tab Bar Controller";
+			sourceTree = "<group>";
+		};
+		94CF72321C3A854F00B33CE9 = {
+			isa = PBXGroup;
+			children = (
+				94CF723D1C3A854F00B33CE9 /* LigaBBVA */,
+				94CF72571C3A854F00B33CE9 /* LigaBBVATests */,
+				94CF723C1C3A854F00B33CE9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		94CF723C1C3A854F00B33CE9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				94CF723B1C3A854F00B33CE9 /* LigaBBVA.app */,
+				94CF72541C3A854F00B33CE9 /* LigaBBVATests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		94CF723D1C3A854F00B33CE9 /* LigaBBVA */ = {
+			isa = PBXGroup;
+			children = (
+				94CF72771C3A8FCB00B33CE9 /* imgResources */,
+				94CF72641C3A857400B33CE9 /* App Delegate */,
+				94CF72801C3A950E00B33CE9 /* Controllers */,
+				945F94431C42F9DD009234B5 /* Tab Bar Controller */,
+				94CF72481C3A854F00B33CE9 /* Main.storyboard */,
+				94CF724B1C3A854F00B33CE9 /* Images.xcassets */,
+				94CF724D1C3A854F00B33CE9 /* LaunchScreen.xib */,
+				94CF723E1C3A854F00B33CE9 /* Supporting Files */,
+			);
+			path = LigaBBVA;
+			sourceTree = "<group>";
+		};
+		94CF723E1C3A854F00B33CE9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				94CF723F1C3A854F00B33CE9 /* Info.plist */,
+				94CF72401C3A854F00B33CE9 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		94CF72571C3A854F00B33CE9 /* LigaBBVATests */ = {
+			isa = PBXGroup;
+			children = (
+				94CF725A1C3A854F00B33CE9 /* LigaBBVATests.m */,
+				94CF72581C3A854F00B33CE9 /* Supporting Files */,
+			);
+			path = LigaBBVATests;
+			sourceTree = "<group>";
+		};
+		94CF72581C3A854F00B33CE9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				94CF72591C3A854F00B33CE9 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		94CF72641C3A857400B33CE9 /* App Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				94CF72421C3A854F00B33CE9 /* HGAAppDelegate.h */,
+				94CF72431C3A854F00B33CE9 /* HGAAppDelegate.m */,
+			);
+			name = "App Delegate";
+			sourceTree = "<group>";
+		};
+		94CF72771C3A8FCB00B33CE9 /* imgResources */ = {
+			isa = PBXGroup;
+			children = (
+				94CF728D1C3AF17800B33CE9 /* Athletic Club.png */,
+				94CF728E1C3AF17800B33CE9 /* Club Atlético de Madrid.png */,
+				94CF728F1C3AF17800B33CE9 /* FC Barcelona.png */,
+				94CF72901C3AF17800B33CE9 /* Getafe CF.png */,
+				94CF72B51C3B0BC900B33CE9 /* Rayo Vallecano de Madrid.png */,
+				94CF72911C3AF17800B33CE9 /* Granada CF.png */,
+				94CF72921C3AF17800B33CE9 /* Levante UD.png */,
+				94CF72931C3AF17800B33CE9 /* Málaga CF.png */,
+				94CF72951C3AF17800B33CE9 /* RC Celta de Vigo.png */,
+				94CF72961C3AF17800B33CE9 /* RC Deportivo La Coruna.png */,
+				94CF72971C3AF17800B33CE9 /* RCD Espanyol.png */,
+				94CF72981C3AF17800B33CE9 /* Real Betis.png */,
+				94CF72991C3AF17800B33CE9 /* Real Madrid CF.png */,
+				94CF729A1C3AF17800B33CE9 /* Real Sociedad de Fútbol.png */,
+				94CF729B1C3AF17800B33CE9 /* SD Eibar.png */,
+				94CF729C1C3AF17800B33CE9 /* Sevilla FC.png */,
+				94CF729D1C3AF17800B33CE9 /* Sporting Gijón.png */,
+				94CF729E1C3AF17800B33CE9 /* UD Las Palmas.png */,
+				94CF729F1C3AF17800B33CE9 /* Valencia CF.png */,
+				94CF72A01C3AF17800B33CE9 /* Villarreal CF.png */,
+				94CF726F1C3A8FC500B33CE9 /* matchesSmall.png */,
+				94CF72701C3A8FC500B33CE9 /* matchesSmall@2x.png */,
+				94CF72711C3A8FC500B33CE9 /* teamsSmall.png */,
+				94CF72721C3A8FC500B33CE9 /* teamsSmall@2x.png */,
+			);
+			name = imgResources;
+			sourceTree = "<group>";
+		};
+		94CF727B1C3A94E000B33CE9 /* Jornadas Controller */ = {
+			isa = PBXGroup;
+			children = (
+				94CF72781C3A94DC00B33CE9 /* HGAJornadasTableViewController.h */,
+				94CF72791C3A94DC00B33CE9 /* HGAJornadasTableViewController.m */,
+			);
+			name = "Jornadas Controller";
+			sourceTree = "<group>";
+		};
+		94CF727F1C3A950200B33CE9 /* Teams Controller */ = {
+			isa = PBXGroup;
+			children = (
+				94CF727C1C3A94FD00B33CE9 /* HGATeamsTableViewController.h */,
+				94CF727D1C3A94FD00B33CE9 /* HGATeamsTableViewController.m */,
+			);
+			name = "Teams Controller";
+			sourceTree = "<group>";
+		};
+		94CF72801C3A950E00B33CE9 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				94CF727B1C3A94E000B33CE9 /* Jornadas Controller */,
+				94CF72841C3A9DF700B33CE9 /* Jornada Controller */,
+				94CF728C1C3AE73500B33CE9 /* Partido Controller */,
+				94CF72BA1C3B0D5600B33CE9 /* Equipo Controller */,
+				94CF72BE1C3B3C5900B33CE9 /* JugadoresController */,
+				94CF727F1C3A950200B33CE9 /* Teams Controller */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		94CF72841C3A9DF700B33CE9 /* Jornada Controller */ = {
+			isa = PBXGroup;
+			children = (
+				94CF72811C3A9DF200B33CE9 /* HGAJornadaTableViewController.h */,
+				94CF72821C3A9DF200B33CE9 /* HGAJornadaTableViewController.m */,
+			);
+			name = "Jornada Controller";
+			sourceTree = "<group>";
+		};
+		94CF728C1C3AE73500B33CE9 /* Partido Controller */ = {
+			isa = PBXGroup;
+			children = (
+				94CF72891C3AE71500B33CE9 /* HGAPartidoViewController.h */,
+				94CF728A1C3AE71500B33CE9 /* HGAPartidoViewController.m */,
+			);
+			name = "Partido Controller";
+			sourceTree = "<group>";
+		};
+		94CF72BA1C3B0D5600B33CE9 /* Equipo Controller */ = {
+			isa = PBXGroup;
+			children = (
+				94CF72B71C3B0D4F00B33CE9 /* HGAEquipoViewController.h */,
+				94CF72B81C3B0D4F00B33CE9 /* HGAEquipoViewController.m */,
+			);
+			name = "Equipo Controller";
+			sourceTree = "<group>";
+		};
+		94CF72BE1C3B3C5900B33CE9 /* JugadoresController */ = {
+			isa = PBXGroup;
+			children = (
+				94CF72BB1C3B3C5100B33CE9 /* HGAJugadoresTableViewController.h */,
+				94CF72BC1C3B3C5100B33CE9 /* HGAJugadoresTableViewController.m */,
+			);
+			name = JugadoresController;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		94CF723A1C3A854F00B33CE9 /* LigaBBVA */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94CF725E1C3A854F00B33CE9 /* Build configuration list for PBXNativeTarget "LigaBBVA" */;
+			buildPhases = (
+				94CF72371C3A854F00B33CE9 /* Sources */,
+				94CF72381C3A854F00B33CE9 /* Frameworks */,
+				94CF72391C3A854F00B33CE9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LigaBBVA;
+			productName = LigaBBVA;
+			productReference = 94CF723B1C3A854F00B33CE9 /* LigaBBVA.app */;
+			productType = "com.apple.product-type.application";
+		};
+		94CF72531C3A854F00B33CE9 /* LigaBBVATests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94CF72611C3A854F00B33CE9 /* Build configuration list for PBXNativeTarget "LigaBBVATests" */;
+			buildPhases = (
+				94CF72501C3A854F00B33CE9 /* Sources */,
+				94CF72511C3A854F00B33CE9 /* Frameworks */,
+				94CF72521C3A854F00B33CE9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				94CF72561C3A854F00B33CE9 /* PBXTargetDependency */,
+			);
+			name = LigaBBVATests;
+			productName = LigaBBVATests;
+			productReference = 94CF72541C3A854F00B33CE9 /* LigaBBVATests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		94CF72331C3A854F00B33CE9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = "Héctor Gonzalo Andrés";
+				TargetAttributes = {
+					94CF723A1C3A854F00B33CE9 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					94CF72531C3A854F00B33CE9 = {
+						CreatedOnToolsVersion = 6.4;
+						TestTargetID = 94CF723A1C3A854F00B33CE9;
+					};
+				};
+			};
+			buildConfigurationList = 94CF72361C3A854F00B33CE9 /* Build configuration list for PBXProject "LigaBBVA" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 94CF72321C3A854F00B33CE9;
+			productRefGroup = 94CF723C1C3A854F00B33CE9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				94CF723A1C3A854F00B33CE9 /* LigaBBVA */,
+				94CF72531C3A854F00B33CE9 /* LigaBBVATests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		94CF72391C3A854F00B33CE9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94CF72A11C3AF17800B33CE9 /* Athletic Club.png in Resources */,
+				94CF724A1C3A854F00B33CE9 /* Main.storyboard in Resources */,
+				94CF72B31C3AF17800B33CE9 /* Valencia CF.png in Resources */,
+				94CF72741C3A8FC500B33CE9 /* matchesSmall@2x.png in Resources */,
+				94CF72AB1C3AF17800B33CE9 /* RCD Espanyol.png in Resources */,
+				94CF72B11C3AF17800B33CE9 /* Sporting Gijón.png in Resources */,
+				94CF72A91C3AF17800B33CE9 /* RC Celta de Vigo.png in Resources */,
+				94CF72B41C3AF17800B33CE9 /* Villarreal CF.png in Resources */,
+				94CF72AA1C3AF17800B33CE9 /* RC Deportivo La Coruna.png in Resources */,
+				94CF72A41C3AF17800B33CE9 /* Getafe CF.png in Resources */,
+				94CF72A51C3AF17800B33CE9 /* Granada CF.png in Resources */,
+				94CF72731C3A8FC500B33CE9 /* matchesSmall.png in Resources */,
+				94CF72A71C3AF17800B33CE9 /* Málaga CF.png in Resources */,
+				94CF72A61C3AF17800B33CE9 /* Levante UD.png in Resources */,
+				94CF724F1C3A854F00B33CE9 /* LaunchScreen.xib in Resources */,
+				94CF72B01C3AF17800B33CE9 /* Sevilla FC.png in Resources */,
+				94CF72A21C3AF17800B33CE9 /* Club Atlético de Madrid.png in Resources */,
+				94CF72751C3A8FC500B33CE9 /* teamsSmall.png in Resources */,
+				94CF72A31C3AF17800B33CE9 /* FC Barcelona.png in Resources */,
+				94CF72B61C3B0BC900B33CE9 /* Rayo Vallecano de Madrid.png in Resources */,
+				94CF724C1C3A854F00B33CE9 /* Images.xcassets in Resources */,
+				94CF72AC1C3AF17800B33CE9 /* Real Betis.png in Resources */,
+				94CF72AE1C3AF17800B33CE9 /* Real Sociedad de Fútbol.png in Resources */,
+				94CF72B21C3AF17800B33CE9 /* UD Las Palmas.png in Resources */,
+				94CF72AF1C3AF17800B33CE9 /* SD Eibar.png in Resources */,
+				94CF72761C3A8FC500B33CE9 /* teamsSmall@2x.png in Resources */,
+				94CF72AD1C3AF17800B33CE9 /* Real Madrid CF.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94CF72521C3A854F00B33CE9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		94CF72371C3A854F00B33CE9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				945F94421C42EFDB009234B5 /* TabBar.m in Sources */,
+				94CF727A1C3A94DC00B33CE9 /* HGAJornadasTableViewController.m in Sources */,
+				94CF727E1C3A94FD00B33CE9 /* HGATeamsTableViewController.m in Sources */,
+				94CF72831C3A9DF200B33CE9 /* HGAJornadaTableViewController.m in Sources */,
+				94CF72441C3A854F00B33CE9 /* HGAAppDelegate.m in Sources */,
+				94CF72BD1C3B3C5100B33CE9 /* HGAJugadoresTableViewController.m in Sources */,
+				94CF728B1C3AE71500B33CE9 /* HGAPartidoViewController.m in Sources */,
+				94CF72B91C3B0D4F00B33CE9 /* HGAEquipoViewController.m in Sources */,
+				94CF72411C3A854F00B33CE9 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94CF72501C3A854F00B33CE9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94CF725B1C3A854F00B33CE9 /* LigaBBVATests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		94CF72561C3A854F00B33CE9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 94CF723A1C3A854F00B33CE9 /* LigaBBVA */;
+			targetProxy = 94CF72551C3A854F00B33CE9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		94CF72481C3A854F00B33CE9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				94CF72491C3A854F00B33CE9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		94CF724D1C3A854F00B33CE9 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				94CF724E1C3A854F00B33CE9 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		94CF725C1C3A854F00B33CE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		94CF725D1C3A854F00B33CE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		94CF725F1C3A854F00B33CE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = LigaBBVA/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		94CF72601C3A854F00B33CE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = LigaBBVA/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		94CF72621C3A854F00B33CE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = LigaBBVATests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LigaBBVA.app/LigaBBVA";
+			};
+			name = Debug;
+		};
+		94CF72631C3A854F00B33CE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = LigaBBVATests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LigaBBVA.app/LigaBBVA";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		94CF72361C3A854F00B33CE9 /* Build configuration list for PBXProject "LigaBBVA" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94CF725C1C3A854F00B33CE9 /* Debug */,
+				94CF725D1C3A854F00B33CE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		94CF725E1C3A854F00B33CE9 /* Build configuration list for PBXNativeTarget "LigaBBVA" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94CF725F1C3A854F00B33CE9 /* Debug */,
+				94CF72601C3A854F00B33CE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		94CF72611C3A854F00B33CE9 /* Build configuration list for PBXNativeTarget "LigaBBVATests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94CF72621C3A854F00B33CE9 /* Debug */,
+				94CF72631C3A854F00B33CE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 94CF72331C3A854F00B33CE9 /* Project object */;
+}

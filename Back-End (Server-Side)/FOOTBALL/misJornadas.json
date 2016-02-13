@@ -1,0 +1,192 @@
+[
+  {
+    "NumJornada": 1,
+    "Mes": "Agosto",
+    "Fecha": "sáb. 22 - dom. 23"
+  },
+  {
+    "NumJornada": 2,
+    "Mes": "Agosto",
+    "Fecha": "sáb. 29 - dom. 30"
+  },
+  {
+    "NumJornada": 3,
+    "Mes": "Septiembre",
+    "Fecha": "sáb. 12 - dom. 13"
+  },
+  {
+    "NumJornada": 4,
+    "Mes": "Septiembre",
+    "Fecha": "sáb. 19 - dom. 20"
+  },
+  {
+    "NumJornada": 5,
+    "Mes": "Septiembre",
+    "Fecha": "sáb. 22 - dom. 23"
+  },
+  {
+    "NumJornada": 6,
+    "Mes": "Septiembre",
+    "Fecha": "sáb. 26 - dom. 27"
+  },
+  {
+    "NumJornada": 7,
+    "Mes": "Octubre",
+    "Fecha": "sáb. 3 - dom. 4"
+  },
+  {
+    "NumJornada": 8,
+    "Mes": "Octubre",
+    "Fecha": "sáb. 17 - dom. 18"
+  },
+  {
+    "NumJornada": 9,
+    "Mes": "Octubre",
+    "Fecha": "sáb. 24 - dom. 25"
+  },
+  {
+    "NumJornada": 10,
+    "Mes": "Octubre",
+    "Fecha": "sáb. 31 - dom. 1"
+  },
+  {
+    "NumJornada": 11,
+    "Mes": "Noviembre",
+    "Fecha": "sáb. 7 - dom. 8"
+  },
+  {
+    "NumJornada": 12,
+    "Mes": "Noviembre",
+    "Fecha": "sáb. 21 - dom. 22"
+  },
+  {
+    "NumJornada": 13,
+    "Mes": "Noviembre",
+    "Fecha": "sáb. 28 - dom. 29"
+  },
+  {
+    "NumJornada": 14,
+    "Mes": "Diciembre",
+    "Fecha": "sáb. 5 - dom. 6"
+  },
+  {
+    "NumJornada": 15,
+    "Mes": "Diciembre",
+    "Fecha": "sáb. 12 - dom. 13"
+  },
+  {
+    "NumJornada": 16,
+    "Mes": "Diciembre",
+    "Fecha": "sáb. 19 - dom. 20"
+  },
+  {
+    "NumJornada": 17,
+    "Mes": "Diciembre",
+    "Fecha": "sáb. 30 - dom. 31"
+  },
+  {
+    "NumJornada": 18,
+    "Mes": "Enero",
+    "Fecha": "sáb. 2 - dom. 3"
+  },
+  {
+    "NumJornada": 19,
+    "Mes": "Enero",
+    "Fecha": "sáb. 9 - dom. 10"
+  },
+  {
+    "NumJornada": 20,
+    "Mes": "Enero",
+    "Fecha": "sáb. 16 - dom. 17"
+  },
+  {
+    "NumJornada": 21,
+    "Mes": "Enero",
+    "Fecha": "sáb. 23 - dom. 24"
+  },
+  {
+    "NumJornada": 22,
+    "Mes": "Enero",
+    "Fecha": "sáb. 30 - dom. 31"
+  },
+  {
+    "NumJornada": 23,
+    "Mes": "Febrero",
+    "Fecha": "sáb. 6 - dom. 7"
+  },
+  {
+    "NumJornada": 24,
+    "Mes": "Febrero",
+    "Fecha": "sáb. 13 - dom14"
+  },
+  {
+    "NumJornada": 25,
+    "Mes": "Febrero",
+    "Fecha": "sáb. 20 - dom. 21"
+  },
+  {
+    "NumJornada": 26,
+    "Mes": "Febrero",
+    "Fecha": "sáb. 27 - dom. 28"
+  },
+  {
+    "NumJornada": 27,
+    "Mes": "Marzo",
+    "Fecha": "sáb. 1 - dom. 2"
+  },
+  {
+    "NumJornada": 28,
+    "Mes": "Marzo",
+    "Fecha": "sáb. 5 - dom. 6"
+  },
+  {
+    "NumJornada": 29,
+    "Mes": "Marzo",
+    "Fecha": "sáb. 12 - dom. 13"
+  },
+  {
+    "NumJornada": 30,
+    "Mes": "Marzo",
+    "Fecha": "sáb. 19 - dom. 20"
+  },
+  {
+    "NumJornada": 31,
+    "Mes": "Abril",
+    "Fecha": "sáb. 2 - dom. 3"
+  },
+  {
+    "NumJornada": 32,
+    "Mes": "Abril",
+    "Fecha": "sáb. 9 - dom. 10"
+  },
+  {
+    "NumJornada": 33,
+    "Mes": "Abril",
+    "Fecha": "sáb. 16 - dom. 17"
+  },
+  {
+    "NumJornada": 34,
+    "Mes": "Abril",
+    "Fecha": "sáb. 19 - dom. 20"
+  },
+  {
+    "NumJornada": 35,
+    "Mes": "Abril",
+    "Fecha": "sáb. 23 - dom. 24"
+  },
+  {
+    "NumJornada": 36,
+    "Mes": "Mayo",
+    "Fecha": "sáb. 30 - dom. 1"
+  },
+  {
+    "NumJornada": 37,
+    "Mes": "Mayo",
+    "Fecha": "sáb. 7 - dom. 8"
+  },
+  {
+    "NumJornada": 38,
+    "Mes": "Mayo",
+    "Fecha": "sáb. 14 - dom. 15"
+  }
+]

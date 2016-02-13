@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2015-12-30T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Real Madrid CF",
+    "awayTeamName": "Real Sociedad de Fútbol",
+    "result": {
+      "goalsHomeTeam": "3",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-12-30T17:15:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Levante UD",
+    "awayTeamName": "Málaga CF",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-12-30T17:15:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Rayo Vallecano de Madrid",
+    "awayTeamName": "Club Atlético de Madrid",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "2"
+    }
+  },
+  {
+    "date": "2015-12-30T17:15:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Sevilla FC",
+    "awayTeamName": "RCD Espanyol",
+    "result": {
+      "goalsHomeTeam": "2",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-12-30T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "SD Eibar",
+    "awayTeamName": "Sporting Gijón",
+    "result": {
+      "goalsHomeTeam": "2",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-12-30T19:30:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Getafe CF",
+    "awayTeamName": "RC Deportivo La Coruna",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-12-30T19:30:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "RC Celta de Vigo",
+    "awayTeamName": "Athletic Club",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-12-30T19:30:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "FC Barcelona",
+    "awayTeamName": "Real Betis",
+    "result": {
+      "goalsHomeTeam": "4",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-12-30T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "UD Las Palmas",
+    "awayTeamName": "Granada CF",
+    "result": {
+      "goalsHomeTeam": "4",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-12-31T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Villarreal CF",
+    "awayTeamName": "Valencia CF",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "0"
+    }
+  }
+]

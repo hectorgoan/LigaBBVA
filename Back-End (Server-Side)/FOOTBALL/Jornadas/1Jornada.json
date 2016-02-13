@@ -1,0 +1,112 @@
+[
+  {    
+    "date": "2015-08-22T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "RC Deportivo La Coruna",
+    "awayTeamName": "Real Sociedad de Fútbol",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {    
+    "date": "2015-08-22T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "RCD Espanyol",
+    "awayTeamName": "Getafe CF",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {   
+    "date": "2015-08-22T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Club Atlético de Madrid",
+    "awayTeamName": "UD Las Palmas",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-08-22T20:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Rayo Vallecano de Madrid",
+    "awayTeamName": "Valencia CF",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-08-23T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Málaga CF",
+    "awayTeamName": "Sevilla FC",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-08-23T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Athletic Club",
+    "awayTeamName": "FC Barcelona",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-08-23T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Sporting Gijón",
+    "awayTeamName": "Real Madrid CF",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-08-23T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Levante UD",
+    "awayTeamName": "RC Celta de Vigo",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "2"
+    }
+  },
+  {
+    "date": "2015-08-23T20:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Real Betis",
+    "awayTeamName": "Villarreal CF",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "1"
+    }
+  },
+  {
+    "date": "2015-08-24T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Granada CF",
+    "awayTeamName": "SD Eibar",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "3"
+    }
+  }
+]

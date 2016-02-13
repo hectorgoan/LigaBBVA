@@ -1,0 +1,242 @@
+[
+  {
+    "id": 3408,
+    "name": "Marc-André ter Stegen",
+    "position": "Keeper",
+    "jerseyNumber": "1",
+    "dateOfBirth": "1992-04-30",
+    "nationality": "Germany",
+    "contractUntil": "2019-06-30",
+    "marketValue": "18,000,000 €"
+  },
+  {
+    "id": 3409,
+    "name": "Claudio Bravo",
+    "position": "Keeper",
+    "jerseyNumber": "13",
+    "dateOfBirth": "1983-04-13",
+    "nationality": "Chile",
+    "contractUntil": "2018-06-30",
+    "marketValue": "15,000,000 €"
+  },
+  {
+    "id": 3410,
+    "name": "Jordi Masip",
+    "position": "Keeper",
+    "jerseyNumber": "25",
+    "dateOfBirth": "1989-01-03",
+    "nationality": "Spain",
+    "contractUntil": "2017-06-30",
+    "marketValue": "1,500,000 €"
+  },
+  {
+    "id": 3411,
+    "name": "Gerard Piqué",
+    "position": "Centre Back",
+    "jerseyNumber": "3",
+    "dateOfBirth": "1987-02-02",
+    "nationality": "Spain",
+    "contractUntil": "2019-06-30",
+    "marketValue": "40,000,000 €"
+  },
+  {
+    "id": 3412,
+    "name": "Javier Mascherano",
+    "position": "Defensive Midfield",
+    "jerseyNumber": "14",
+    "dateOfBirth": "1984-06-08",
+    "nationality": "Argentina",
+    "contractUntil": "2018-06-30",
+    "marketValue": "15,000,000 €"
+  },
+  {
+    "id": 3413,
+    "name": "Thomas Vermaelen",
+    "position": "Centre Back",
+    "jerseyNumber": "23",
+    "dateOfBirth": "1985-11-14",
+    "nationality": "Belgium",
+    "contractUntil": "2019-06-30",
+    "marketValue": "6,000,000 €"
+  },
+  {
+    "id": 3414,
+    "name": "Jérémy Mathieu",
+    "position": "Centre Back",
+    "jerseyNumber": "24",
+    "dateOfBirth": "1983-10-29",
+    "nationality": "France",
+    "contractUntil": "2018-06-30",
+    "marketValue": "15,000,000 €"
+  },
+  {
+    "id": 3415,
+    "name": "Marc Bartra",
+    "position": "Centre Back",
+    "jerseyNumber": "15",
+    "dateOfBirth": "1991-01-15",
+    "nationality": "Spain",
+    "contractUntil": "2017-06-30",
+    "marketValue": "12,000,000 €"
+  },
+  {
+    "id": 3416,
+    "name": "Jordi Alba",
+    "position": "Left-Back",
+    "jerseyNumber": "18",
+    "dateOfBirth": "1989-03-21",
+    "nationality": "Spain",
+    "contractUntil": "2020-06-30",
+    "marketValue": "35,000,000 €"
+  },
+  {
+    "id": 3417,
+    "name": "Adriano",
+    "position": "Left-Back",
+    "jerseyNumber": "21",
+    "dateOfBirth": "1984-10-26",
+    "nationality": "Brazil",
+    "contractUntil": "2017-06-30",
+    "marketValue": "8,000,000 €"
+  },
+  {
+    "id": 3419,
+    "name": "Dani Alves",
+    "position": "Right-Back",
+    "jerseyNumber": "6",
+    "dateOfBirth": "1983-05-06",
+    "nationality": "Brazil",
+    "contractUntil": "2017-06-30",
+    "marketValue": "10,000,000 €"
+  },
+  {
+    "id": 3420,
+    "name": "Douglas",
+    "position": "Right-Back",
+    "jerseyNumber": "2",
+    "dateOfBirth": "1990-08-06",
+    "nationality": "Brazil",
+    "contractUntil": "2019-06-30",
+    "marketValue": "2,000,000 €"
+  },
+  {
+    "id": 3421,
+    "name": "Sergio Busquets",
+    "position": "Defensive Midfield",
+    "jerseyNumber": "5",
+    "dateOfBirth": "1988-07-16",
+    "nationality": "Spain",
+    "contractUntil": "2019-06-30",
+    "marketValue": "45,000,000 €"
+  },
+  {
+    "id": 3423,
+    "name": "Andrés Iniesta",
+    "position": "Central Midfield",
+    "jerseyNumber": "8",
+    "dateOfBirth": "1984-05-11",
+    "nationality": "Spain",
+    "contractUntil": "2018-06-30",
+    "marketValue": "35,000,000 €"
+  },
+  {
+    "id": 3424,
+    "name": "Ivan Rakitic",
+    "position": "Central Midfield",
+    "jerseyNumber": "4",
+    "dateOfBirth": "1988-03-10",
+    "nationality": "Croatia",
+    "contractUntil": "2019-06-30",
+    "marketValue": "40,000,000 €"
+  },
+  {
+    "id": 3425,
+    "name": "Sergi Roberto",
+    "position": "Central Midfield",
+    "jerseyNumber": "20",
+    "dateOfBirth": "1992-02-07",
+    "nationality": "Spain",
+    "contractUntil": "2019-06-30",
+    "marketValue": "8,000,000 €"
+  },
+  {
+    "id": 3427,
+    "name": "Neymar",
+    "position": "Left Wing",
+    "jerseyNumber": "11",
+    "dateOfBirth": "1992-02-05",
+    "nationality": "Brazil",
+    "contractUntil": "2018-06-30",
+    "marketValue": "80,000,000 €"
+  },
+  {
+    "id": 3429,
+    "name": "Lionel Messi",
+    "position": "Right Wing",
+    "jerseyNumber": "10",
+    "dateOfBirth": "1987-06-24",
+    "nationality": "Argentina",
+    "contractUntil": "2018-06-30",
+    "marketValue": "120,000,000 €"
+  },
+  {
+    "id": 3430,
+    "name": "Luis Suárez",
+    "position": "Centre Forward",
+    "jerseyNumber": "9",
+    "dateOfBirth": "1987-01-24",
+    "nationality": "Uruguay",
+    "contractUntil": "2019-06-30",
+    "marketValue": "80,000,000 €"
+  },
+  {
+    "id": 3431,
+    "name": "Munir El Haddadi",
+    "position": "Centre Forward",
+    "jerseyNumber": "17",
+    "dateOfBirth": "1995-09-01",
+    "nationality": "Spain",
+    "contractUntil": "2017-06-30",
+    "marketValue": "10,000,000 €"
+  },
+  {
+    "id": 3432,
+    "name": "Sandro Ramírez",
+    "position": "Centre Forward",
+    "jerseyNumber": "19",
+    "dateOfBirth": "1995-07-09",
+    "nationality": "Spain",
+    "contractUntil": "2017-06-30",
+    "marketValue": "5,000,000 €"
+  },
+  {
+    "id": 3475,
+    "name": "Aleix Vidal",
+    "position": "Right-Back",
+    "jerseyNumber": "null",
+    "dateOfBirth": "1989-08-21",
+    "nationality": "Spain",
+    "contractUntil": "2020-06-30",
+    "marketValue": "10,000,000 €"
+  },
+  {
+    "id": 3590,
+    "name": "Arda Turan",
+    "position": "Right Wing",
+    "jerseyNumber": "null",
+    "dateOfBirth": "1987-01-30",
+    "nationality": "Turkey",
+    "contractUntil": "2020-06-30",
+    "marketValue": "35,000,000 €"
+  },
+  {
+    "id": 5747,
+    "name": "Gerard Gumbau",
+    "position": "Defensive Midfield",
+    "jerseyNumber": "28",
+    "dateOfBirth": "1994-12-18",
+    "nationality": "Spain",
+    "contractUntil": "2017-06-30",
+    "marketValue": null
+  }
+]

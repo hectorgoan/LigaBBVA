@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2015-12-19T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Valencia CF",
+    "awayTeamName": "Getafe CF",
+    "result": {
+      "goalsHomeTeam": "2",
+      "goalsAwayTeam": "2"
+    }
+  },
+  {
+    "date": "2015-12-19T17:15:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "RCD Espanyol",
+    "awayTeamName": "UD Las Palmas",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-12-19T19:30:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Real Betis",
+    "awayTeamName": "Sevilla FC",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-12-19T21:05:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "RC Deportivo La Coruna",
+    "awayTeamName": "SD Eibar",
+    "result": {
+      "goalsHomeTeam": "2",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-12-20T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Real Madrid CF",
+    "awayTeamName": "Rayo Vallecano de Madrid",
+    "result": {
+      "goalsHomeTeam": "10",
+      "goalsAwayTeam": "2"
+    }
+  },
+  {
+    "date": "2015-12-20T17:15:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Granada CF",
+    "awayTeamName": "RC Celta de Vigo",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "2"
+    }
+  },
+  {
+    "date": "2015-12-20T17:15:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Real Sociedad de Fútbol",
+    "awayTeamName": "Villarreal CF",
+    "result": {
+      "goalsHomeTeam": "0",
+      "goalsAwayTeam": "2"
+    }
+  },
+  {
+    "date": "2015-12-20T17:15:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Athletic Club",
+    "awayTeamName": "Levante UD",
+    "result": {
+      "goalsHomeTeam": "2",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2015-12-20T19:30:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Málaga CF",
+    "awayTeamName": "Club Atlético de Madrid",
+    "result": {
+      "goalsHomeTeam": "1",
+      "goalsAwayTeam": "0"
+    }
+  },
+  {
+    "date": "2016-02-17T16:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 16,
+    "homeTeamName": "Sporting Gijón",
+    "awayTeamName": "FC Barcelona",
+    "result": {
+      "goalsHomeTeam": "-1",
+      "goalsAwayTeam": "-1"
+    }
+  }
+]
